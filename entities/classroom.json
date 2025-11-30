@@ -1,0 +1,6 @@
+{
+  "id": "INT PRIMARY KEY AUTO_INCREMENT",
+  "grade": "INT",
+  "class_num": "INT",
+  "teacher_id": "INT FOREIGN KEY"
+}
